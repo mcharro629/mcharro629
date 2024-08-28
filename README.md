@@ -1,11 +1,8 @@
 ## Hi there 👋
 
-<!--
-**mcharro629/mcharro629** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.![IMG_20240421_192345](https://github.com/user-attachments/assets/dc9ce543-3af2-43dc-bdb4-98bcd13b41fa)
+[IMG_20240421_192345](https://github.com/user-attachments/assets/dc9ce543-3af2-43dc-bdb4-98bcd13b41fa)
 
-
-Here are some ideas to get you started:
-
+<--
 - 🔭 I’m currently working on preparing myself to dive deep into data analytics...
 - 🌱 I’m currently learning the pre-course material ...
 - 👯 I’m looking to collaborate on different projects related to coding beginners...
