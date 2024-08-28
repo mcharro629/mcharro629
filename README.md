@@ -1,5 +1,6 @@
 ## Hi there 👋
-[IMG_20240421_192345](https://github.com/user-attachments/assets/344575d4-1838-41d9-a34b-b4ecbf9ec653)
+
+![IMG_20240421_192345](https://github.com/user-attachments/assets/44f6d44f-88ac-410c-8032-844657b8cae9)
 
 <--
 - 🔭 I’m currently working on preparing myself to dive deep into data analytics...
